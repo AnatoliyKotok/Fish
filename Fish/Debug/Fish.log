@@ -1,0 +1,9 @@
+﻿  Fish.cpp
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(27,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(32,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(37,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(43,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(49,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(97): warning C4715: 'Fish::Compresion': not all control paths return a value
+C:\Users\Anatoliy\source\repos\Fish\Fish\Fish.cpp(106): warning C4717: 'Fish::operator==': recursive on all control paths, function will cause runtime stack overflow
+  Fish.vcxproj -> C:\Users\Anatoliy\source\repos\Fish\Debug\Fish.exe
